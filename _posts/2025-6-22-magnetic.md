@@ -2,7 +2,7 @@
 layout: post
 title: Magnetic Monster
 description: Magnetic Monster
-image: assets/images/pic03.jpg
+image: null
 ---
 NGC 1275
 

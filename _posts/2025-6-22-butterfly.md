@@ -2,7 +2,7 @@
 layout: post
 title: Butterfly
 description: NGC 6302
-image: assets/images/pic02.jpg
+image: null
 ---
 NGC 6302
 

@@ -2,7 +2,7 @@
 layout: post
 title: Whirlpool Galaxy
 description: Whirlpool Galaxy
-image: assets/images/pic25.jpg
+image: null
 ---
 
 M51 
