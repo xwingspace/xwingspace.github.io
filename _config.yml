@@ -3,6 +3,7 @@ title: Xwing.Space
 subtitle: by FixHub
 email: xwingspace@gmail.com
 description: 
+icon: xwinglogoi.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: 

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, this is Xwing!'
+landing-title: 'Hi, Xwing is alive!'
 description: null
 image: null
 author: null

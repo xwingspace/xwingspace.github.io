@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Electronic
+description: Well picked collection
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -16,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Journey</h2>
+<h2 id="content">X-Wing</h2>
 <p>Welcome to The Xwing Space, your new favorite radio station designed to accompany you wherever life takes you. Whether you're cruising down the highway, unwinding on vacation, or focusing at work, we've curated the perfect soundtrack for your journey. Dive into a diverse soundscape that spans the energetic beats of electronic music, the heartfelt melodies of folk, and a world of eclectic discoveries you won't hear anywhere else. And when you need to simply breathe, our ambient selections are here to envelop you in calm. Tune in and let The Xwing Space be the backdrop to your every moment.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -54,7 +55,7 @@ nav-menu: true
 <p>This is <b>the</b> only <strong>station</strong>. Amazing <i>artists</i> and <em>melodies</em>.
 This is <sup>mind-opening</sup> and this is <sub>grounded</sub>.
 Xwing is <u>enhancing</u> and <code>long lasting memories</code>.
-Finally, this is a <a href="#">link</a>.</p>
+We are here. <a href="#">xwing.space</a>.</p>
 <hr />
 <h2>Progessive</h2>
 <h3>Chill</h3>

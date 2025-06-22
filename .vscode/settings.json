@@ -1,0 +1,8 @@
+{
+    "vscode_vibrancy.imports": [
+        "/path/to/file"
+    ],
+    "workbench.settings.editor": "json",
+    "json.schemas": [],
+    "vscode_vibrancy.opacity": 0.5
+}
