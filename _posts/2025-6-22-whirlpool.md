@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Whirlpool Galaxy
-description: Whirlpool Galaxy
+title: Whirlpool
+description: Whirlpool
 image: null
 ---
 

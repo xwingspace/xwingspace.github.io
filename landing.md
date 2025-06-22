@@ -1,7 +1,7 @@
 ---
 title: Folk/Alternative
 layout: landing
-description: Pieces from local and global voices
+description: From local and global voices
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
