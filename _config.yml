@@ -4,10 +4,10 @@ subtitle: by FixHub
 email: xwingspace@gmail.com
 description: 
 icon: xwinglogoi.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: 
-street_address: Friedrichshain
+street_address: Samariterkiez, Friedrichshain
 city: Berlin
 state: 
 zip_code: 10247
